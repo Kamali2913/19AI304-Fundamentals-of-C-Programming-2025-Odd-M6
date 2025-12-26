@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+<img width="775" height="482" alt="image" src="https://github.com/user-attachments/assets/b7b59536-79b4-47bb-a161-4af374b24a7a" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
@@ -33,7 +33,11 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+<img width="802" height="569" alt="image" src="https://github.com/user-attachments/assets/1a73f55b-1db6-4191-a1f9-83d44c8f18b9" />
+
 # Output:
+<img width="800" height="159" alt="image" src="https://github.com/user-attachments/assets/82d55386-cb02-49a2-a243-c7cb7a13d665" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -79,7 +83,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+<img width="738" height="579" alt="image" src="https://github.com/user-attachments/assets/64918167-cc4c-4a8e-81c9-c52c3ed5b3de" />
+<img width="846" height="268" alt="image" src="https://github.com/user-attachments/assets/96e99598-d48e-4a14-8c0e-85962568c53e" />
+
+
 # Output:
+<img width="790" height="453" alt="image" src="https://github.com/user-attachments/assets/c754685b-a56a-4d87-96a3-18d455e6cc3c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -123,7 +133,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/efbd5843-7b8c-40f9-a979-eb5ce79559e4" />
+<img width="775" height="482" alt="image" src="https://github.com/user-attachments/assets/fddc4b53-6780-4fa0-b6b5-fa6a63274c97" />
+
+
 # Output:
+<img width="832" height="441" alt="image" src="https://github.com/user-attachments/assets/b35ca28f-1a9c-4b40-803f-e1c0645c79fa" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -166,7 +182,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+<img width="782" height="592" alt="image" src="https://github.com/user-attachments/assets/dd18e16a-813d-40de-bbb7-14e601a8a694" />
+
 # Output:
+<img width="788" height="173" alt="image" src="https://github.com/user-attachments/assets/bf03e3e7-0472-43fb-8c0c-9f6f72e5a85d" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -202,7 +222,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="759" height="482" alt="image" src="https://github.com/user-attachments/assets/351dafd9-ff67-461f-802d-fc04d37f49aa" />
+
 # Output:
+<img width="765" height="188" alt="image" src="https://github.com/user-attachments/assets/5669fa48-4f74-4bde-bb84-b1dd23620c52" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
