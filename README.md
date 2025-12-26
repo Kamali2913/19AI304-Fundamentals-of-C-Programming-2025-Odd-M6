@@ -1,4 +1,4 @@
-<img width="775" height="482" alt="image" src="https://github.com/user-attachments/assets/b7b59536-79b4-47bb-a161-4af374b24a7a" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
@@ -84,11 +84,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 <img width="738" height="579" alt="image" src="https://github.com/user-attachments/assets/64918167-cc4c-4a8e-81c9-c52c3ed5b3de" />
-<img width="846" height="268" alt="image" src="https://github.com/user-attachments/assets/96e99598-d48e-4a14-8c0e-85962568c53e" />
+<img width="790" height="453" alt="image" src="https://github.com/user-attachments/assets/c754685b-a56a-4d87-96a3-18d455e6cc3c" />
 
 
 # Output:
-<img width="790" height="453" alt="image" src="https://github.com/user-attachments/assets/c754685b-a56a-4d87-96a3-18d455e6cc3c" />
+<img width="846" height="268" alt="image" src="https://github.com/user-attachments/assets/96e99598-d48e-4a14-8c0e-85962568c53e" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
